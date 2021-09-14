@@ -10,6 +10,7 @@ Cargo.lock
 **/*.rs.bk
 
 .vscode
+.risp-history
 
 # Added by cargo
 
